@@ -78,11 +78,11 @@ V1 can be viewed in [`v1`](https://github.com/mazipan/baca-quran.id/tree/v1) bra
 - 👉 🇮🇩 [NihBuatJajan](https://www.nihbuatjajan.com/mazipan?utm_source=github-mazipan)
 - 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/mazipan?utm_source=github-mazipan)
 - 👉 🌍 [Paypal](https://www.paypal.me/mazipan?utm_source=github-mazipan)
-- 👉 🌍 [Ko-Fi](https://ko-fi.com/mazipan?utm_source=github-mazipan)
+- 👉 🌍 [Ko-Fi](https://github.com/IndraGanzWebsite/ALQURAN.github.io)
 
 ---
 
-Copyright © 2018 by Irfan Maulana
+Copyright © 2023 ndra Ganz
 
 ## Contributors
 
